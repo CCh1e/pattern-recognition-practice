@@ -1,0 +1,24 @@
+# Кеш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Збірка та пакування
+build/
+dist/
+*.egg-info/
+
+# Службові файли Jupyter
+.ipynb_checkpoints/
+
+# Віртуальні середовища
+.venv/
+venv/
+env/
+
+# Секретні змінні
+.env
+
+# Службові файли операційних систем
+.DS_Store
+Thumbs.db
